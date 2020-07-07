@@ -12,6 +12,16 @@ Aprende a crear un servicio de visual recognition para clasificar tacos y despli
 * Utilizar safari, chrome, firefox, edge.
 * "Fork" y "Clone" a este repositorio. 
 
+## Members's name:
+- Jaziel David Flores Rodríguez.
+- Malinali Becerri Bernal.
+- Martín Ortiz Dionicio.
+
+# Description:
+Application for visual recognition of images through screenshots as well as
+Natural Langage Processing with emails to prevent phishing attacks.
+This using with Watson Natural Language Classifier and Visual Recognition.
+
 ## Cupones para profesores y estudiantes:
 
 * Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
