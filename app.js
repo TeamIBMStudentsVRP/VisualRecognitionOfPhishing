@@ -10,7 +10,7 @@ var fs = require('fs');
 //set IBM cloud credentials in this section
 var visualRecognition = new VisualRecognitionV3({
   version: '2019-05-29',
-  iam_apikey: '<apikey>'
+  iam_apikey: 'ewP62_O259-Y0CX9bqqVEUb_xAYwwdcmudfcCq-O3vfI'
 });
 
 // Set The Storage Engine
@@ -72,7 +72,7 @@ app.post('/upload', (req, res) => {
         });
       } else {
         var images_file = fs.createReadStream(`./public/uploads/${req.file.filename}`);
-        var classifier_ids = ["<classifier-id>"];
+        var classifier_ids = ["Phishing_1126376895"];
         console.log("datos de la imagen -- " + images_file);
         //
           var params = {
