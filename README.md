@@ -1,8 +1,6 @@
 # IBM Recipe - Visual recognition 
 ![](assets/visualrec.png)<br/> 
 
-Aprende a crear un servicio de visual recognition para clasificar tacos y despliegalo en una app directamente a IBM Cloud!
-
 ## Prework:
 * Cuenta de [IBM Cloud][url-IBMCLOUD].
 * Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD].

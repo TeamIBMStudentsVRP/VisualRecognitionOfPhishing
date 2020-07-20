@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "JazzzFM/malibb/Martin-Ortiz",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.5.7",
